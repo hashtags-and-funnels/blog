@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+stories:
+  name: stories
+  description: excerpts from a my marketing journey  
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+ideas:
+  name: ideas
+  description: suggestions, hacks and solutions  
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+opinions:
+  name: opinions
+  description: views, judgements and perspectives
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
