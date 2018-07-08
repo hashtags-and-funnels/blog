@@ -8,16 +8,14 @@
     
       
       <item>
-        <title>Welcome to Ghost</title>
+        <title></title>
         
-          <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
-
-</description>
+          <description></description>
         
-        <pubDate>Thu, 27 Jul 2017 10:00:00 +0000</pubDate>
+        <pubDate>Sun, 08 Jul 2018 08:39:01 +0000</pubDate>
         <link>
-        /welcome</link>
-        <guid isPermaLink="true">/welcome</guid>
+        /2017-07-27-welcome</link>
+        <guid isPermaLink="true">/2017-07-27-welcome</guid>
       </item>
       
     
