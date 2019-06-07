@@ -4,7 +4,7 @@ current: post
 cover: assets/images/sky.jpg
 navigation: true
 title: I Have a Dream
-date: {}
+date: 1948-12-12 10:18:00
 tags: stories
 class: post-template
 subclass: post tag-speeches
