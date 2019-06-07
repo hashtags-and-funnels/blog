@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postnew
 current: post
 cover: assets/images/bus.jpg
 navigation: True
