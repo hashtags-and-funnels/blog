@@ -4,7 +4,7 @@ current: post
 cover: assets/images/grapes.jpg
 navigation: true
 title: The Purpose of Education
-date: {}
+date: 1948-12-12 10:18:00
 tags: stories
 class: post-template
 subclass: post tag-speeches
