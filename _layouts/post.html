@@ -23,11 +23,6 @@ into the {body} of the default.hbs template -->
     <div class="inner">
 
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
-
-            {% if page.cover %}
-            <figure class="post-image" style="background-image: url({{ site.baseurl }}{{ page.cover }})">
-            </figure>
-            {% endif %}
             
             <header class="post-full-header">
                 <section class="post-full-meta">
