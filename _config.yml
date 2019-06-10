@@ -10,7 +10,7 @@ baseurl: /blog/
 # Website info
 title: aSaaSinator's blog
 description: stories, ideas and opinions
-cover: assets/images/blog-cover.jpg
+cover: assets/images/cover.jpg
 logo: assets/images/ninja.png
 logo_dark: assets/images/ninja.png
 favicon: assets/images/ninja.png
