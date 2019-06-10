@@ -8,9 +8,9 @@ language: 'en-uk'
 baseurl: /blog/
 
 # Website info
-title: a SaaS-inator's
-description: growth hacking ideas and (some) results :)
-cover: assets/images/cover-4.png
+title: aSaaSinator's
+description: growth hacking stories, ideas and opinions
+cover: assets/images/blog-cover.jpg
 logo: assets/images/ninja-w.png
 logo_dark: assets/images/ninja.png
 favicon: assets/images/ninja.png
