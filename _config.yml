@@ -10,7 +10,7 @@ baseurl: /blog/
 # Website info
 title: aSaaSinator's
 description: growth hacking stories, ideas and opinions
-cover: assets/images/butterfly-growth-origami.jpg
+cover: assets/images/butterfly-growth-origami.png
 logo: assets/images/ninja-w.png
 logo_dark: assets/images/ninja.png
 favicon: assets/images/ninja.png
