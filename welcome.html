@@ -144,7 +144,7 @@ into the {body} of the default.hbs template -->
     <div class="inner">
 
         <article class="post-full post tag-getting-started ">
-            
+
             <header class="post-full-header">
                 <section class="post-full-meta">
                     <time class="post-full-meta-date" datetime="27 July 2017">27 July 2017</time>
@@ -159,6 +159,11 @@ into the {body} of the default.hbs template -->
                 </section>
                 <h1 class="post-full-title">Welcome to Ghost</h1>
             </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(/blog/assets/images/welcome.jpg)">
+            </figure>
+            
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
@@ -181,7 +186,39 @@ into the {body} of the default.hbs template -->
 
                 </div>
             </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
             
+                <section class="subscribe-form">
+                    <h3 class="subscribe-form-title">Subscribe to a SaaS-inator's</h3>
+                    <p>Get the latest posts delivered right to your inbox</p>
+                    <form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+                </section>
+            
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                
+                <!-- /author  -->
+            </footer>
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+
         </article>
 
     </div>
@@ -287,21 +324,7 @@ into the {body} of the default.hbs template -->
                     </article>
                 
             
-        
-        
-            <footer class="post-full-footer">
-                <!-- Everything inside the #author tags pulls data from the author -->
-                <!-- #author-->
-                
-                    
-                
-                <!-- /author  -->
-            </footer>
-<!-- Links to Previous/Next posts -->
-<aside class="read-next outer">
-    <div class="inner">
-        <div class="read-next-feed">
-            
+
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
 
