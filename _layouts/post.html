@@ -47,23 +47,15 @@ into the {body} of the default.hbs template -->
                 </div>
             </section>
 
-            <!-- Email subscribe form at the bottom of the page -->
-            {% if site.subscribers %}
-                <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    {% include subscribe-form.html placeholder="youremail@example.com" %}
-                </section>
-            {% endif %}
-            
+            <!-- Email subscribe form at the bottom of the page -->          
             {% if site.subscribers %}
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Subscribe </h3>
-                    <p>You’re reading aSaaSinator's blog, stuffed with growth hacking strategies that I had experimented in my limited years of experience. 
+                    <p> You’re reading aSaaSinator's blog, stuffed with growth hacking strategies that I had experimented in my limited years of experience. 
 
-                    If you want to know when I publish something new, I recommend getting an RSS reader like <a href="https://newsblur.com/">NewsBlur</a> and subscribing to my RSS feed.
+                    <br/> If you want to know when I publish something new, I recommend getting an RSS reader like <a href="https://newsblur.com/">NewsBlur</a> and subscribing to my RSS feed.
 
-                    High privacy and no spamming. :)</p>
+                    <br/> High privacy and no spamming.👍 </p>
                 </section>
             {% endif %}
 
