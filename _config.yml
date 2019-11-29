@@ -9,7 +9,7 @@ baseurl: /blog/
 
 # Website info
 title: aSaaSinator's
-description: growth hacking ideas, experiments and inferences
+description: growth hacking experiments, ideas and inferences
 cover: assets/images/butterfly-growth-origami.png
 logo: assets/images/ninja-w.png
 logo_dark: assets/images/ninja.png
@@ -27,7 +27,7 @@ facebook: # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: asaasinator # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
